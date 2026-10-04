@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C7A7B&center=true&vCenter=true&width=560&lines=Ingenier%C3%ADa+de+software+a+la+medida;Full-Stack+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n;Sistemas+POS%2C+plataformas+web+y+APIs;De+la+idea+al+producto+en+producci%C3%B3n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C7A7B&center=true&vCenter=true&width=560&lines=Ingenier%C3%ADa+de+software+a+la+medida;Full-Stack+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n;Plataformas+SaaS%2C+web+y+APIs;De+la+idea+al+producto+en+producci%C3%B3n" alt="Typing SVG" />
 </a>
 
 </div>
