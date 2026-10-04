@@ -54,7 +54,15 @@ Ingeniero de software independiente. Diseño y desarrollo sistemas web de extrem
 
 ## Proyectos
 
-Productos desarrollados bajo **EINNOVACION MX**:
+<a href="https://einnovacionmx.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/einnovacion-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/einnovacion-light.png" />
+    <img alt="EINNOVACION MX" src="assets/einnovacion-light.png" width="240" />
+  </picture>
+</a>
+
+Productos desarrollados bajo **[EINNOVACION MX](https://einnovacionmx.com)**:
 
 | Proyecto | Descripción |
 | --- | --- |
