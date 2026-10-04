@@ -87,5 +87,7 @@ Productos desarrollados bajo **EINNOVACION MX**:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/joseph.dircio%40einnovacionmx.com-1f4d52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.dircio@einnovacionmx.com)
+[![Web](https://img.shields.io/badge/einnovacionmx.com-1f4d52?style=for-the-badge&logo=googlechrome&logoColor=white)](https://einnovacionmx.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f4d52?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossssdl/)
 
 </div>
