@@ -25,7 +25,7 @@ Ingeniero de software independiente. Diseño y desarrollo sistemas web de extrem
 | | |
 | --- | --- |
 | **Desarrollo Full-Stack** | Aplicaciones web y APIs con Next.js, React, Node.js y Laravel. |
-| **Sistemas POS y gestión** | Puntos de venta, inventario, ventas y programas de lealtad para comercios y restaurantes. |
+| **Plataformas SaaS** | Productos multi-tenant con autenticación, pagos en línea y paneles de administración. |
 | **IA y automatización** | Integración de modelos de lenguaje y automatización de procesos repetitivos. |
 | **Arquitectura y bases de datos** | Modelado, optimización y migración sobre PostgreSQL y MariaDB. |
 
@@ -58,10 +58,10 @@ Productos desarrollados bajo **EINNOVACION MX**:
 
 | Proyecto | Descripción |
 | --- | --- |
-| **XAMU POS** | Sistema de punto de venta para comercios: ventas, productos e inventario. |
-| **XAMU POS Restaurantes** | Variante para restaurantes, orientada a la operación de mesas y comandas. |
-| **Loyalty Cards** | Programa de tarjetas de lealtad digitales para fidelizar clientes. |
-| **Photo Boda** | Plataforma para compartir y reunir las fotos de un evento. |
+| **Sync** | Plataforma SaaS B2B multi-tenant para agencias digitales: gestión de proyectos, cobro por hitos y bóveda cifrada de entregables. Next.js, Supabase, Mercado Pago y Stripe. |
+| **PassCore** | Plataforma multi-tenant para eventos privados: invitaciones digitales, RSVP nominal, control de accesos y notificaciones automáticas. Next.js, Prisma y PostgreSQL. |
+| **Photo Event** | Galería colaborativa para bodas y eventos: los invitados suben fotos desde el celular sin crear cuenta y la galería crece en vivo. Next.js, PostgreSQL y procesamiento de imágenes en segundo plano. |
+| **Loyalty API** | API REST de programas de lealtad para comercios: tarjetas, puntos y recompensas. Node.js y SQL. |
 
 ## Actividad
 
@@ -86,6 +86,6 @@ Productos desarrollados bajo **EINNOVACION MX**:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/dijos.030331%40gmail.com-1f4d52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dijos.030331@gmail.com)
+[![Email](https://img.shields.io/badge/joseph.dircio%40einnovacionmx.com-1f4d52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.dircio@einnovacionmx.com)
 
 </div>
